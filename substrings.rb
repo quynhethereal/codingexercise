@@ -1,3 +1,5 @@
+#Ref: https://stackoverflow.com/questions/25938430/ruby-how-to-count-the-number-of-times-a-string-appears-in-another-string/25938828
+
 def substrings(str, dictionary)
   #hash to store result
   result = Hash.new(0)
